@@ -1,0 +1,17 @@
+Files produced by run_assignment1.py
+outputs\data\q1_avg_revenue_by_category.csv
+outputs\data\q2_total_revenue_by_year.csv
+outputs\data\q3_quantity_by_product.csv
+outputs\data\df_sales.csv
+outputs\data\cube_revenue_category_year.csv
+outputs\data\details_sales.csv
+outputs\data\summary_pivot.csv
+outputs\data\slice_2024.csv
+outputs\data\dice_q1_2024_electronics.csv
+outputs\data\rollup_category_year.csv
+outputs\data\drill_quarter_month_2024.csv
+outputs\images\revenue_by_category.png
+outputs\images\heatmap_category_year.png
+outputs\images\revenue_trend.png
+outputs\data\trend_year_month.csv
+outputs\data\agg_revenue_by_category.csv

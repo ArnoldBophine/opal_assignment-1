@@ -1,0 +1,4 @@
+sale_id,date,year,quarter,month,product_id,category,name,quantity,revenue
+1,2024-01-15,2024,1,1,1,Electronics,Smartphone A,2,600.0
+2,2024-01-15,2024,1,1,2,Electronics,Headphones B,5,250.0
+4,2024-03-05,2024,1,3,1,Electronics,Smartphone A,1,300.0
